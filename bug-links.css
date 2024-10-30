@@ -1,0 +1,57 @@
+a.bug-link {
+	background: url(img/generic.png) left no-repeat;
+	padding-left: 20px;
+	vertical-align: baseline;
+}
+
+a.bug-link-gnome {
+	background-image: url(img/gnome.png);
+}
+
+a.bug-link-ubuntu {
+	background-image: url(img/ubuntu.png);
+}
+
+a.bug-link-fedora {
+	background-image: url(img/fedora.png);
+}
+
+a.bug-link-red-hat, a.bug-link-redhat, a.bug-link-rh {
+	background-image: url(img/red-hat.png);
+}
+
+a.bug-link-novell {
+	background-image: url(img/novell.ico);
+}
+
+a.bug-link-suse, a.bug-link-opensuse {
+	background-image: url(img/suse.ico);
+}
+
+a.bug-link-debian {
+	background-image: url(img/debian.ico);
+}
+
+a.bug-link-mozilla {
+	background-image: url(img/mozilla.png);
+}
+
+a.bug-link-ximian {
+	background-image: url(img/ximian.ico);
+}
+
+a.bug-link-launchpad, a.bug-link-lp {
+	background-image: url(img/launchpad.png);
+}
+
+a.bug-link-freedesktop, a.bug-link-free-desktop, a.bug-link-fdo {
+	background-image: url(img/freedesktop.ico);
+}
+
+a.bug-link-wordpress {
+	background-image: url(img/wordpress.ico);
+}
+
+a.bug-link-wordpress-mu, a.bug-link-wpmu {
+	background-image: url(img/wordpress-mu.ico);
+}
